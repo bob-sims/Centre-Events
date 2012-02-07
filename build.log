@@ -1,0 +1,170 @@
+Logfile initialized
+[INFO] logfile = /home/bob/Titanium Studio Workspace/JFTC Events/build.log
+[DEBUG] /home/bob/.titanium/mobilesdk/linux/1.7.5/android/builder.py install JFTC Events /home/bob/android-sdks /home/bob/Titanium Studio Workspace/JFTC Events com.natojftc.jftcevents 1
+[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.009750 seconds on emulator to get ready
+[DEBUG] com.natojftc.jftcevents installed? False
+[INFO] Copying project resources..
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/bob/Titanium Studio Workspace/JFTC Events/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] creating unsigned apk: /home/bob/Titanium Studio Workspace/JFTC Events/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/icons/20100601-jtfu46g8cny6qte2t123ak24wn.png
+[DEBUG] from resource zip => assets/Resources/icons/20100601-jyfccfym7upggpr4qrx3u6sqth.png
+[DEBUG] from resource zip => assets/Resources/icons/airport.png
+[DEBUG] from resource zip => assets/Resources/icons/bank.png
+[DEBUG] from resource zip => assets/Resources/icons/bankeuro.png
+[DEBUG] from resource zip => assets/Resources/icons/beautifulview.png
+[DEBUG] from resource zip => assets/Resources/icons/bedandbreakfast1.png
+[DEBUG] from resource zip => assets/Resources/icons/bedandbreakfast2.png
+[DEBUG] from resource zip => assets/Resources/icons/bowling.png
+[DEBUG] from resource zip => assets/Resources/icons/bus.png
+[DEBUG] from resource zip => assets/Resources/icons/car.png
+[DEBUG] from resource zip => assets/Resources/icons/casino.png
+[DEBUG] from resource zip => assets/Resources/icons/castle-2.png
+[DEBUG] from resource zip => assets/Resources/icons/cinema.png
+[DEBUG] from resource zip => assets/Resources/icons/cocktail.png
+[DEBUG] from resource zip => assets/Resources/icons/computer.png
+[DEBUG] from resource zip => assets/Resources/icons/fastfood.png
+[DEBUG] from resource zip => assets/Resources/icons/fitnesscenter.png
+[DEBUG] from resource zip => assets/Resources/icons/golf.png
+[DEBUG] from resource zip => assets/Resources/icons/grocery.png
+[DEBUG] from resource zip => assets/Resources/icons/gym.png
+[DEBUG] from resource zip => assets/Resources/icons/hanggliding.png
+[DEBUG] from resource zip => assets/Resources/icons/harbour-guest.png
+[DEBUG] from resource zip => assets/Resources/icons/hiking.png
+[DEBUG] from resource zip => assets/Resources/icons/horseriding.png
+[DEBUG] from resource zip => assets/Resources/icons/hospital-building.png
+[DEBUG] from resource zip => assets/Resources/icons/hospital.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel1star.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel2star.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel3star.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel4star.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel5star.png
+[DEBUG] from resource zip => assets/Resources/icons/hotel_0star.png
+[DEBUG] from resource zip => assets/Resources/icons/iceskating.png
+[DEBUG] from resource zip => assets/Resources/icons/info.png
+[DEBUG] from resource zip => assets/Resources/icons/jazzclub.png
+[DEBUG] from resource zip => assets/Resources/icons/karting.png
+[DEBUG] from resource zip => assets/Resources/icons/light_burst.png
+[DEBUG] from resource zip => assets/Resources/icons/light_burst@2x.png
+[DEBUG] from resource zip => assets/Resources/icons/light_info.png
+[DEBUG] from resource zip => assets/Resources/icons/light_info@2x.png
+[DEBUG] from resource zip => assets/Resources/icons/light_phone.png
+[DEBUG] from resource zip => assets/Resources/icons/light_pin.png
+[DEBUG] from resource zip => assets/Resources/icons/light_pin@2x.png
+[DEBUG] from resource zip => assets/Resources/icons/light_shield.png
+[DEBUG] from resource zip => assets/Resources/icons/museum-historical.png
+[DEBUG] from resource zip => assets/Resources/icons/music-classical.png
+[DEBUG] from resource zip => assets/Resources/icons/next.png
+[DEBUG] from resource zip => assets/Resources/icons/park-urban.png
+[DEBUG] from resource zip => assets/Resources/icons/park.png
+[DEBUG] from resource zip => assets/Resources/icons/parking.png
+[DEBUG] from resource zip => assets/Resources/icons/pizza.png
+[DEBUG] from resource zip => assets/Resources/icons/pool.png
+[DEBUG] from resource zip => assets/Resources/icons/racing.png
+[DEBUG] from resource zip => assets/Resources/icons/restaurant-fish.png
+[DEBUG] from resource zip => assets/Resources/icons/restaurant.png
+[DEBUG] from resource zip => assets/Resources/icons/restaurantchinese.png
+[DEBUG] from resource zip => assets/Resources/icons/restaurantjapanese.png
+[DEBUG] from resource zip => assets/Resources/icons/shoppingmall.png
+[DEBUG] from resource zip => assets/Resources/icons/sight.png
+[DEBUG] from resource zip => assets/Resources/icons/skateboarding.png
+[DEBUG] from resource zip => assets/Resources/icons/skiing.png
+[DEBUG] from resource zip => assets/Resources/icons/sneakers.png
+[DEBUG] from resource zip => assets/Resources/icons/soccer.png
+[DEBUG] from resource zip => assets/Resources/icons/stadium.png
+[DEBUG] from resource zip => assets/Resources/icons/supermarket.png
+[DEBUG] from resource zip => assets/Resources/icons/tapas.png
+[DEBUG] from resource zip => assets/Resources/icons/tennis2.png
+[DEBUG] from resource zip => assets/Resources/icons/tent.png
+[DEBUG] from resource zip => assets/Resources/icons/ter.png
+[DEBUG] from resource zip => assets/Resources/icons/theater.png
+[DEBUG] from resource zip => assets/Resources/icons/themepark.png
+[DEBUG] from resource zip => assets/Resources/icons/tools.png
+[DEBUG] from resource zip => assets/Resources/icons/train.png
+[DEBUG] from resource zip => assets/Resources/icons/youthhostel.png
+[DEBUG] from resource zip => assets/Resources/models/db.js
+[DEBUG] from resource zip => assets/Resources/models/googleWeather.js
+[DEBUG] from resource zip => assets/Resources/models/rssData.js
+[DEBUG] from resource zip => assets/Resources/theme/images/bgblue.png
+[DEBUG] from resource zip => assets/Resources/theme/images/bgltblue.png
+[DEBUG] from resource zip => assets/Resources/theme/images/email.png
+[DEBUG] from resource zip => assets/Resources/theme/images/globe.png
+[DEBUG] from resource zip => assets/Resources/theme/images/info.png
+[DEBUG] from resource zip => assets/Resources/theme/images/pin.png
+[DEBUG] from resource zip => assets/Resources/theme/images/protection.png
+[DEBUG] from resource zip => assets/Resources/theme/images/refresh.png
+[DEBUG] from resource zip => assets/Resources/theme/images/send_mail.png
+[DEBUG] from resource zip => assets/Resources/theme/images/users.png
+[DEBUG] from resource zip => assets/Resources/theme/theme.js
+[DEBUG] from resource zip => assets/Resources/ui/AppTabGroup.js
+[DEBUG] from resource zip => assets/Resources/ui/ContactWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/FeedWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/ListWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/WeatherWindow.js
+[DEBUG] from resource zip => assets/Resources/utils/utils.js
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/app.jss
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/bydgoszcz.sqlite
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/default1_aa429f3a8b.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /home/bob/.titanium/mobilesdk/linux/1.7.5/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.007299 seconds on emulator to get ready
+[INFO] Installing application on emulator
+[INFO] Application installed. Launch from drawer on Home Screen
